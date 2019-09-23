@@ -1,0 +1,15 @@
+Stream is an Interface present in java.util.stream package.
+
+Topics:
+
+stream()
+filter()
+collect()
+map()
+sorted()
+sorted(Comparator)
+max(Comparator)
+min(Comparator)
+forEach(Function)
+toArray()
+  eg l.stream().toArray(Integer[]::new) ==> will return constructor reference
